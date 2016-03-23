@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ying"
+  id="myeclipse.1458647519359"
+  context-root="/mying"
+  j2ee-spec="6.0"
+  archive="ying.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
